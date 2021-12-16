@@ -9,3 +9,4 @@ https://www.ipa.go.jp/security/ciadr/vul/alert20211213.html
 > 影響を受けるシステム
 > 
 > Apache Log4j 2.15.0 より前の 2 系のバージョン
+>
